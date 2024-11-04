@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https:/)
+- Live Site URL: [GitHub Pages](https://oscarrodolfoumg.github.io/Challenge-Blog-preview-card-FrontEnd-Mentor/)
 
 ## My process
 

@@ -63,6 +63,11 @@ p {
   margin: 0px;
 }
 
+section p{
+    color: hsl(0, 0%, 42%);
+    line-height: 1.4;
+}
+
 .colors {
   color: hsl(47, 88%, 63%);
   color: hsl(0, 0%, 100%);
